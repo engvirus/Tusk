@@ -5,6 +5,8 @@ welcome to solvers
 java
 python
 
+java script
+
 
 c
 c++
